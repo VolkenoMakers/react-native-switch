@@ -76,7 +76,7 @@ function SwitchItem({ title, state, disabled }) {
 - `onBgColor?`: string
 - `offBgColor?`: string
 - `color?`: string
-- `onChange?`:[Function]()
+- `onChange?`:[Function](https://github.com/VolkenoMakers/react-native-switch/blob/a5dab28377e1be12cbb71463662363dc83eaaf95/src/lib/switch.tsx#L19)
 - `textStyle?`: `StyleProp<TextStyle>`
 
 **ISC Licensed**
