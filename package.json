@@ -1,7 +1,7 @@
 {
   "name": "@volkenomakers/react-native-switch",
-  "version": "1.0.0",
-  "description": "Switch on off module",
+  "version": "1.0.1",
+  "description": "React native Switch on off module",
   "scripts": {
     "build": "tsc",
     "prepare": "yarn run build"

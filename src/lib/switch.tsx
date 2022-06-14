@@ -56,10 +56,11 @@ export default function Switch({
       style={{ opacity: disabled ? 0.6 : 1 }}
       onPress={() => {
         setState((old) => {
+          const newState = !old;
           if (onChange) {
-            onChange(old);
+            onChange(newState);
           }
-          return !old;
+          return newState;
         });
       }}
     >

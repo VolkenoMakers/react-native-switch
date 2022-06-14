@@ -1,4 +1,4 @@
-# toast
+# react-native-switch
 
 ![Single select](https://raw.githubusercontent.com/VolkenoMakers/react-native-switch/files/demo.gif)
 
